@@ -11,7 +11,7 @@ We had to do the following task :
 
 2) IT governance plan : Delivery of an IT governance plan for the CIUSSS MCQ
 
-   Find the context here : https://bit.ly/Computer_Breakdown_At_CIUSSS_MCQ & https://bit.ly/Governance_System_Using_COBIT_2019
+   Find the context here : https://bit.ly/Computer_Breakdown_At_CIUSSS_MCQ  &  https://bit.ly/Governance_System_Using_COBIT_2019
 
 
 3) Value Stream Mapping
