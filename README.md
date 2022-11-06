@@ -2,7 +2,7 @@
 
 I am currently following this course at ETS.
 
-We had to do the following task :
+We had to do the following tasks :
 
 1) IT Services : Describe two IT services of "value" to users in relation to the context below
 
